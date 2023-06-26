@@ -3,7 +3,6 @@ Finance Calculator
 This is a simple finance calculator script that allows you to calculate either the amount of interest you will earn on an investment or the amount you will have to pay on a home loan (bond).
 
 Usage
-Run the finance_calculator() function.
 Choose the program you want to run by typing either "bond" or "investment" when prompted.
 Follow the instructions and provide the required inputs.
 The calculator will compute the results and display them.
