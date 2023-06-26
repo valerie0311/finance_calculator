@@ -24,3 +24,38 @@ The calculated future amount of the investment is displayed.
 Error Handling
 If the user enters an invalid number, the script will prompt them to enter a valid number.
 If the user enters an invalid interest type, they will be prompted to enter either "simple" or "compound".
+
+
+Installation
+To use the finance calculator script, please follow the instructions below to set it up on your local machine:
+
+Clone the repository:
+
+Open Terminal on your computer.
+Navigate to the directory where you want to clone the repository.
+Run the following command:
+
+git clone https://github.com/valerie0311/finance_calculator.git
+Navigate to the project directory:
+
+In Terminal, go to the directory where you cloned the repository:
+cd your-repository
+
+Run the script:
+Ensure you have Python installed on your machine (version 3.x is recommended).
+Run the following command to execute the finance calculator script:
+python finance_calculator.py
+
+
+Follow the prompts:
+Once the script is running, you will be prompted to choose between calculating a bond or an investment.
+Enter the required inputs as prompted and follow the instructions provided by the script.
+That's it! You now have the finance calculator script set up on your local machine. Enjoy using it for your financial calculations!
+
+If you encounter any issues or have any questions, please feel free to contact me.
+
+
+
+
+
+
